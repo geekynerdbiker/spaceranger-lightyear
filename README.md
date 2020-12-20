@@ -5,9 +5,9 @@
   
   [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceranger-lightyear&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spaceranger-lightyear)](https://solved.ac/spaceranger-lightyear)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=spacerangerlightyear)](https://solved.ac/spacerangerlightyear)
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=spaceranger-lightyear)](https://solved.ac/spaceranger-lightyear)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=spacerangerlightyear)](https://solved.ac/spacerangerlightyear)
 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/spaceranger.lightyear/?hl=ko)](https://www.instagram.com/spaceranger.lightyear/?hl=ko)
 
